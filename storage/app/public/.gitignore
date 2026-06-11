@@ -1,0 +1,5 @@
+# Ignore livewire temporary upload files
+livewire-tmp/
+
+# Keep everything else (kegiatan images, etc.)
+
