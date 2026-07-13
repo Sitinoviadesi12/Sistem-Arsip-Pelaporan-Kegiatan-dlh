@@ -4,7 +4,7 @@ Nim     : 23215006
 Tempat PKL : Dinas Lingkungan Hidup Kab.Tegal
 Teknologi  : Laravel
 
-Sistem Pelaporan Kegiatan Dinas Lingkungan Hidup — Admin Internal.
+Sistem Pelaporan Kegiatan Dinas Lingkungan Hidup — user/public.
 
 Lihat **[INSTALASI.md](INSTALASI.md)** untuk panduan instalasi lengkap.
 
