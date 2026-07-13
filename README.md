@@ -1,6 +1,7 @@
 # SIAPK-DLH USER
 Nama    : Siti Novia Desi Nurkhikmah
 Nim     : 23215006
+UAS     : Komputasi Awan dan Perangkat Bergerak
 Tempat PKL : Dinas Lingkungan Hidup Kab.Tegal
 Teknologi  : Laravel
 
