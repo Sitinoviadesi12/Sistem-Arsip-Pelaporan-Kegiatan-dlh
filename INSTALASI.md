@@ -60,9 +60,9 @@ APP_URL=http://siap-sistem-dlh.test
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=sipk_dlh
+DB_DATABASE=(sesuaikan dgn database anda)
 DB_USERNAME=root
-DB_PASSWORD=090123
+DB_PASSWORD=(sesuaikan dgn password anda)
 
 SESSION_DRIVER=database
 SESSION_LIFETIME=120
